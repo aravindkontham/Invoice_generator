@@ -15,3 +15,5 @@ Screen Shots of the Project
 ![Screenshot (7)](https://github.com/aravindkontham/Invoice_generator/assets/92075632/c7a915aa-1e9f-4b35-b11c-df2ad63d0e52)
 ![Screenshot (8)](https://github.com/aravindkontham/Invoice_generator/assets/92075632/920d0db5-4ac5-45a3-bc18-dd0357807e73)
 
+Here is the report that will walk you through the project
+[Python_Report[1].docx](https://github.com/aravindkontham/Invoice_generator/files/12500074/Python_Report.1.docx)
