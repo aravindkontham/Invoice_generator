@@ -1,4 +1,4 @@
-# Invoice_generator
+#welcome to Invoice_generator
 <ul>
 <li>Combination of tkinter in Python and docx to make a invoice whuch can be used in any kind of organisation</li>
 
@@ -13,6 +13,9 @@ Screen Shots of the Project
 ![Screenshot (4)](https://github.com/aravindkontham/Invoice_generator/assets/92075632/b3c951b5-7ad3-437a-a9d9-75d3436d1723)
 ![Screenshot (6)](https://github.com/aravindkontham/Invoice_generator/assets/92075632/50891b8d-2d95-4aee-91d5-08e889e29256)
 ![Screenshot (7)](https://github.com/aravindkontham/Invoice_generator/assets/92075632/c7a915aa-1e9f-4b35-b11c-df2ad63d0e52)
+Here is how a invoice looks like after generating
+![image](https://github.com/aravindkontham/Invoice_generator/assets/92075632/3b603bbf-03df-4aac-bff6-ff7d4a92767f)
+
 ![Screenshot (8)](https://github.com/aravindkontham/Invoice_generator/assets/92075632/920d0db5-4ac5-45a3-bc18-dd0357807e73)
 
 Here is the report that will walk you through the project
